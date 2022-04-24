@@ -17,4 +17,4 @@ int main()
      printf("True");
     else
      printf("False");
-}//disarium 11 lo
+}
